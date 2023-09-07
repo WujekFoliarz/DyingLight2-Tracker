@@ -1,2 +1,2 @@
-CRC: 860030613
-Size: 1343 bytes
+CRC: 2551455734
+Size: 924 bytes
